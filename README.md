@@ -1,70 +1,96 @@
-# Getting Started with Create React App
+##What is GiveStation?
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+GiveStation is a multi-chain give-to-earn grant protocol that rewards users for funding projects, ideas and public goods in web3. GiveStation is decentralized which means anyone can create a grant anytime and get grants approved by a consensus vote from the contributiors.
 
-## Available Scripts
+##Problem?
 
-In the project directory, you can run:
+The main driving factor for the success of crowdfunding was the ability to raise funds by just making some short description of what you want to raise funds for and then submit it on platforms like Kickstarter, GoFundme, etc.
 
-### `npm start`
+However, later it turned out that this model was polluted and centralized crowdfunding platform does little or no background checks and follow-up on the projects.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The crowdfunding community is too centralized and while the Contributors are being screwed for donating and trusting a project/idea, they end up not seeing the impact of their contributions.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+There is almost no room from transparency by default. This a huge challenge for every of the traditional crowdfunding ecosystem, and that is what we are here to fix.
 
-### `npm test`
+##Lesson learned:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+We have learnt that web3 is the tool needed to solve this problem once an for all.
 
-### `npm run build`
+Contributors should be empowered by recurring incentives for the value they create according to the level of impact.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Contributors are the backbone of every crowdfunding system.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+##Solution
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Our mission is reward and protect the contributors while making sure that the funds allocated to this founders and teams are used in the right way.
 
-### `npm run eject`
+Incentivization
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+To encourage Contributors to participate in funding projects and to also experience a better community while contributing to the GiveStation’s ecosystem, we have put together a reward mechanism.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+To paint a better scenario - At the end of each funding round, contributors will be able to claim GVST token as additional rewards.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+##Governance and Decentralization
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+On GiveStation, the community governing system which most of its missions and goals are largely influenced by votes and users are granted flexibility and control not otherwise seen with traditional crowdfunding models.
 
-## Learn More
+If Contributors matters a lot in the crowdfunding system then introducing a transparent way to raise fund is the best way to raise funds and this it will not only protect the Contributors, it also creates an atmosphere of trust where the Contributors know where his/her donations go to and how its being used.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Overview Project Overview
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+After the funding is completed. There will be no disbursement of funds if the grant does not get at least 50% approval vote from its donors.
 
-### Code Splitting
+##How it works:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+The creators/team creates a project,
 
-### Analyzing the Bundle Size
+They hit their target from contributions.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+They make funds withdrawal request.
 
-### Making a Progressive Web App
+Funds get sent to their provided wallet after at least 50% of donors have approved the withdrawal request.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Furthermore, our medium article here explains how we take care of KYC and compliance to prevent rogue grants creators/team from listing projects for the aim of defrauding the system.
 
-### Advanced Configuration
+We are currently on the Gitcoin grants round and the little we have raised so far along with our personal team funds has helped us build the project to the stage it is today and we plan and hope to raise more to introduce more features soon.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+The goal is to incentivize the web3 ecosystem by integrating token rewards for users who contributes to projects on each of this blockchain protocols.
 
-### Deployment
+##Project links:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+DApp: app.givestation.org
 
-### `npm run build` fails to minify
+Website:Givestation.org
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Twitter: @givestation
+
+Github: GiveStation Github.com/Givestation
+
+Discord/Discourse/Community: Givestation Discord
+
+##Ecosystem Value Proposition:
+
+
+##Who can raise funds on GiveStation - GiveStation is accessible to everybody as long as you have a great idea. Regardless of your country, tribe, race, etc.
+
+Progress Our Dapp is on testnet on five blockchains inclusing Optimism, Arbitrum, Gnosis, Polygon and Binance.
+
+Users can create and contribute to grants and claim Givepoints (GP) on their dashboard.
+
+While we were at this stage, we saw what bringing the protocol to other chain could mean for the crowdfunding ecosystem and what the subsequent version will look like including features like:
+
+Some new features like Hosting of hackathons for other projects will be introduced in the next update.
+
+Differentiation The platform is not limited to developers and web programmers alone as we have made the platform available for everybody as long as they need funds to bring their ideas into reality.
+
+Any user can visit the platform, pick any idea or project they believe in, contribute directly to this life changing projects and in doing so, they get rewarded.
+
+The requested funds will serve as a bridge to launch the new, ready-for-prime-time version of GiveStation. Expenses include:
+
+##Marketing
+
+Design and branding .
+
+Governance, airdrop, staking, and/or liquidity
+
+Compensation to contributors.
