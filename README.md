@@ -20,7 +20,7 @@ Contributors should be empowered by recurring incentives for the value they crea
 
 Contributors are the backbone of every crowdfunding system.
 
-##Solution
+## Solution
 
 Our mission is reward and protect the contributors while making sure that the funds allocated to this founders and teams are used in the right way.
 
@@ -30,7 +30,7 @@ To encourage Contributors to participate in funding projects and to also experie
 
 To paint a better scenario - At the end of each funding round, contributors will be able to claim GVST token as additional rewards.
 
-##Governance and Decentralization
+## Governance and Decentralization
 
 On GiveStation, the community governing system which most of its missions and goals are largely influenced by votes and users are granted flexibility and control not otherwise seen with traditional crowdfunding models.
 
@@ -40,7 +40,7 @@ Overview Project Overview
 
 After the funding is completed. There will be no disbursement of funds if the grant does not get at least 50% approval vote from its donors.
 
-##How it works:
+## How it works:
 
 The creators/team creates a project,
 
@@ -56,7 +56,7 @@ We are currently on the Gitcoin grants round and the little we have raised so fa
 
 The goal is to incentivize the web3 ecosystem by integrating token rewards for users who contributes to projects on each of this blockchain protocols.
 
-##Project links:
+## Project links:
 
 DApp: app.givestation.org
 
@@ -68,10 +68,10 @@ Github: GiveStation Github.com/Givestation
 
 Discord/Discourse/Community: Givestation Discord
 
-##Ecosystem Value Proposition:
+## Ecosystem Value Proposition:
 
 
-##Who can raise funds on GiveStation - GiveStation is accessible to everybody as long as you have a great idea. Regardless of your country, tribe, race, etc.
+## Who can raise funds on GiveStation - GiveStation is accessible to everybody as long as you have a great idea. Regardless of your country, tribe, race, etc.
 
 Progress Our Dapp is on testnet on five blockchains inclusing Optimism, Arbitrum, Gnosis, Polygon and Binance.
 
@@ -87,7 +87,7 @@ Any user can visit the platform, pick any idea or project they believe in, contr
 
 The requested funds will serve as a bridge to launch the new, ready-for-prime-time version of GiveStation. Expenses include:
 
-##Marketing
+## Marketing
 
 Design and branding .
 
