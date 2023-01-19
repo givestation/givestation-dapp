@@ -1,8 +1,8 @@
-##What is GiveStation?
+## What is GiveStation?
 
 GiveStation is a multi-chain give-to-earn grant protocol that rewards users for funding projects, ideas and public goods in web3. GiveStation is decentralized which means anyone can create a grant anytime and get grants approved by a consensus vote from the contributiors.
 
-##Problem?
+## Problem?
 
 The main driving factor for the success of crowdfunding was the ability to raise funds by just making some short description of what you want to raise funds for and then submit it on platforms like Kickstarter, GoFundme, etc.
 
@@ -12,7 +12,7 @@ The crowdfunding community is too centralized and while the Contributors are bei
 
 There is almost no room from transparency by default. This a huge challenge for every of the traditional crowdfunding ecosystem, and that is what we are here to fix.
 
-##Lesson learned:
+## Lesson learned:
 
 We have learnt that web3 is the tool needed to solve this problem once an for all.
 
